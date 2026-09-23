@@ -8,7 +8,7 @@ int main()
     int n = 7;
     int count = 1, max = 1;
 
-    for (int i = 1; i < n; i++)
+    for (int i = 1; i < n; i++) 
     {
         if (a[i] > a[i - 1])
         {
