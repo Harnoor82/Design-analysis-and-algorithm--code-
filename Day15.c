@@ -1,7 +1,5 @@
-/*Question 15:
-Write a program to detect a cycle in link list 
-Do the complexity analysis also.
-*/
+//Write a program to detect a cycle in link list. Do the complexity analysis also.
+
 #include <stdio.h>
 #include <stdlib.h>
 
