@@ -1,7 +1,5 @@
-/*Question 14:
-Given two array arr1 
-and arr2 your task is to find out the smallest difference between two array elements.
-*/
+//Given two array arr1 and arr2 your task is to find out the smallest difference between two array elements.
+
 #include <stdio.h>
 #include <stdlib.h>
 
