@@ -1,5 +1,5 @@
-/*remove duplicate from sorted array
-*/
+//remove duplicate from sorted array
+
 #include <stdio.h>
 
 int main() {
